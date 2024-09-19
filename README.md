@@ -15,5 +15,5 @@ This bot is designed to run in Google Colab. The following steps will guide you 
 
 ### Prerequisites
 
-- A Google Colab account and load the Voice-Bot.ipynb
+- A Google Colab account and load the [Voice-Bot.ipynb](Voice-Bot.ipynb)
 - Basic knowledge of Python and machine learning concepts.
