@@ -5,7 +5,7 @@ This project is a voice-based chatbot that combines Speech to Text (STT), a Larg
 ## Features
 
 - **Speech to Text (STT)**: Converts spoken language into text using [Whisper-Tiny English](https://huggingface.co/openai/whisper-tiny.en).
-- **Large Language Model (LLM)**: Generates context-aware responses using [TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) or [Gemma-2-2b](https://huggingface.co/google/gemma-2-2b).
+- **Large Language Model (LLM)**: Generates context-aware responses using [TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
 - **Text to Speech (TTS)**: Converts text responses back into speech using [Parler-TTS-Mini-v1](https://huggingface.co/parler-tts/parler-tts-mini-v1).
 - **Gradio UI**: Provides a simple interface for interaction with the bot using a microphone.
 
