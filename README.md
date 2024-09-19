@@ -18,7 +18,7 @@ This bot is designed to run in Google Colab. The following steps will guide you 
 - A Google Colab account and load the [Voice-Bot.ipynb](Voice-Bot.ipynb)
 - Basic knowledge of Python and machine learning concepts.
 
-Todo:
+## Todo:
 - Build React Frontend and FastAPI / VLLM deployment for backend.
 - Implement threading and queues for streaming
 - Add Docker File for instant deployment
